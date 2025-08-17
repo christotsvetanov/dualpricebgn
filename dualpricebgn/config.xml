@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>dualpricebgn</name>
+    <displayName><![CDATA[Dual Price BGN & EUR]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Displays prices in both BGN and EUR when the currency is BGN.]]></description>
+    <author><![CDATA[Christo Tsvetanov]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>0</is_configurable>
+    <ps_versions_compliancy>
+        <min>8.0.0</min>
+        <max>8.9.9</max>
+    </ps_versions_compliancy>
+</module>
